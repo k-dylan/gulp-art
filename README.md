@@ -1,5 +1,5 @@
 # gulp-art
-A gulp plugin for art-template
+A gulp plugin for [art-template](https://github.com/aui/art-template)
 
 # Install
 ```
