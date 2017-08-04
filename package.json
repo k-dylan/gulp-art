@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "a gulp plugin for artTemplate",
   "main": "index.js",
+  "repository": "https://github.com/k-dylan/gulp-art",
   "scripts": {
     "test": "./node_modules/.bin/mocha"
   },
@@ -14,8 +15,6 @@
     "through2": "^2.0.3"
   },
   "devDependencies": {
-    "gulp": "^3.9.1",
-    "mocha": "^3.5.0",
-    "should": "^11.2.1"
+    "gulp": "^3.9.1"
   }
 }
