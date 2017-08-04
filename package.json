@@ -1,0 +1,21 @@
+{
+  "name": "gulp-art",
+  "version": "0.0.1",
+  "description": "a gulp plugin for artTemplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "author": "kdylan (kdylan@qq.com)",
+  "license": "ISC",
+  "dependencies": {
+    "art-template": "^4.12.1",
+    "gulp-util": "^3.0.8",
+    "through2": "^2.0.3"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "mocha": "^3.5.0",
+    "should": "^11.2.1"
+  }
+}
